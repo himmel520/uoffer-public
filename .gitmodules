@@ -1,6 +1,8 @@
 [submodule "media-service"]
 	path = media-service
 	url = https://github.com/himmel520/media.git
+	branch = dev
 [submodule "require-service"]
 	path = require-service
 	url = https://github.com/himmel520/require.git
+	branch = dev
